@@ -1,0 +1,6 @@
+framework module Pods_PLUICollectionViewLeftAligned_Example {
+  umbrella header "Pods-PLUICollectionViewLeftAligned_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

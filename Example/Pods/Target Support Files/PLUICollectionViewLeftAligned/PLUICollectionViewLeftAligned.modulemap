@@ -1,0 +1,6 @@
+framework module PLUICollectionViewLeftAligned {
+  umbrella header "PLUICollectionViewLeftAligned-umbrella.h"
+
+  export *
+  module * { export * }
+}

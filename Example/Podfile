@@ -1,0 +1,13 @@
+use_frameworks!
+
+pod 'SnapKit'
+
+target 'PLUICollectionViewLeftAligned_Example' do
+  pod 'PLUICollectionViewLeftAligned', :path => '../'
+
+  target 'PLUICollectionViewLeftAligned_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

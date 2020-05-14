@@ -1,0 +1,23 @@
+PODS:
+  - PLUICollectionViewLeftAligned (0.1.0)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - PLUICollectionViewLeftAligned (from `../`)
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PLUICollectionViewLeftAligned:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLUICollectionViewLeftAligned: 8a56bbec6618f11dcae7998f53b2c5ef16997266
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 78fc88e41645ac3a17ea76748d9d37c72ddc694e
+
+COCOAPODS: 1.9.1
